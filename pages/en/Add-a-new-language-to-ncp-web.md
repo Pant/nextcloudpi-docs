@@ -1,5 +1,9 @@
-Add a new language to ncp-web
-=============================
+---
+title: Add a new language to ncp-web
+sidebar: en_sidebar
+permalink: en/add-a-new-language-to-ncp-web.html
+folder: en
+---
 
 In order to create a new language for _ncp-web_, follow these steps
 
